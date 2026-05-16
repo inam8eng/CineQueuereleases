@@ -9,11 +9,11 @@ Video Guide available (After Purchase)
 
 **Benefits**
 
-Its just replacement of you working with 100% efficiency.
-No Ban, Zero Latency, No Other Homeworks, Just work!
-One payment, two devices and lifetime updates.
-You do rest and it will finish your job until you get back
-Tool itself works offline and no data breaches.
+- Its just replacement of you working with 100% efficiency.
+- No Ban, Zero Latency, No Other Homeworks, Just work!
+- One payment, two devices and lifetime updates.
+- You do rest and it will finish your job until you get back
+- Tool itself works offline and no data breaches.
 
 
 **Supported Tools**
