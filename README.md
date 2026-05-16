@@ -29,12 +29,12 @@ Video Guide available (After Purchase)
 
 **Features**
 
-🚀 Automated prompt creations
-📋 JSON and Excel prompt file support
-⏱️ Configurable settings according to any tool
-📊 Detailed run logs and CSV export
-🔄 Auto-update from GitHub Releases
-🔐 Gumroad license activation
+- 🚀 Automated prompt creations
+- 📋 JSON and Excel prompt file support
+- ⏱️ Configurable settings according to any tool
+- 📊 Detailed run logs and CSV export
+- 🔄 Auto-update from GitHub Releases
+- 🔐 Gumroad license activation
 
 
 **Requirements**
