@@ -1,10 +1,11 @@
-Queue your prompts. Reclaim your time.
+**Queue your prompts. Reclaim your time.**
 
 CineQueue is a Windows desktop automation tool that helps you create Unlimited amount of AI videos. It structures your prompts and paste into AI video creation tools with intelligence.
 
 Tested on Google VEO and Flow.
 
 Video Guide available (After Purchase)
+
 
 **Benefits**
 
@@ -13,6 +14,7 @@ No Ban, Zero Latency, No Other Homeworks, Just work!
 One payment, two devices and lifetime updates.
 You do rest and it will finish your job until you get back
 Tool itself works offline and no data breaches.
+
 
 **Supported Tools**
 
@@ -24,6 +26,7 @@ X
 Elevenlabs (Audio creation) 
 Others that follow same pattern
 
+
 **Features**
 
 🚀 Automated prompt creations
@@ -33,9 +36,11 @@ Others that follow same pattern
 🔄 Auto-update from GitHub Releases
 🔐 Gumroad license activation
 
+
 **Requirements**
 
 Windows 10/11
+
 
 **License**
 
