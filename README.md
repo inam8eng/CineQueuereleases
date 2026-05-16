@@ -18,13 +18,13 @@ Video Guide available (After Purchase)
 
 **Supported Tools**
 
-Google VEO (Tested) 
-Google Flow (Tested) 
-InVideo 
-Heygen 
-X 
-Elevenlabs (Audio creation) 
-Others that follow same pattern
+- Google VEO (Tested) 
+- Google Flow (Tested) 
+- InVideo 
+- Heygen 
+- X 
+- Elevenlabs (Audio creation) 
+- Others that follow same pattern
 
 
 **Features**
