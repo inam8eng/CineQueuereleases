@@ -1,10 +1,5 @@
 {
-  "latest_version": "4.2.7",
-  "download_url": "https://github.com/inam8eng/CineQueuereleases/releases/download/v4.2.7/CineQueue_v4.2.7_Windows.zip",
-  "force_update": false,
-  "changelog": [
-    "Fixed license guard and engine bug"
-  ],
-  "release_date": "2026-05-16",
+  "version": "4.2.6",
+  "release_date": "2026-05-15",
   "min_supported_version": "4.0.0"
 }
