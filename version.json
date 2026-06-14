@@ -1,6 +1,6 @@
 {
     "latest_version":  "4.3.0",
-    "download_url":  "https://github.com/inam8eng/CineQueuereleases/releases/download/v4.3.0/CineQueue_v4.3.0_Gumroad_Windows.zip",
+    "download_url":  "https://github.com/inam8eng/CineQueuereleases/releases/latest",
     "force_update":  false,
     "release_date":  "2026-06-13",
     "changelog":  [
@@ -8,6 +8,6 @@
                       "Per-prompt retry: a failed prompt no longer cancels the whole run",
                       "Fixed Gemini prompt generation",
                       "Start is blocked until CLICK coordinates are captured",
-                      "AV trust hygiene: version metadata, no UPX, SHA256SUMS"
+                      "AV trust hygiene: version metadata, no UPX"
                   ]
 }
